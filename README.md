@@ -1,4 +1,9 @@
-This repository contains the slides that present our recently published General Boolean Function Benchmark Suite for Genetic Programming. 
+## General Boolean Function Benchmark Suite 
+
+This repository contains the slides that present our recently published General Boolean Function Benchmark Suite (GBFB) for Genetic Programming (GP). GBFB is a benchmark suite that
+can be used to evaluate the performance and robustness of GP systems in logic synthesis.
+
+## Reference
 
 > Kalkreuth et al.: General Boolean Function Benchmark Suite
 > FOGA'23: Proceedings of the 17th ACM/SIGEVO Conference on Foundations of Genetic Algorithms

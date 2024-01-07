@@ -1,4 +1,4 @@
-This repository contains the slides of the recent published 
+This repository contains the slides that present our recently published General Boolean Function Benchmark Suite for Genetic Programming. 
 
 > Kalkreuth et al.: General Boolean Function Benchmark Suite
 > FOGA'23: Proceedings of the 17th ACM/SIGEVO Conference on Foundations of Genetic Algorithms

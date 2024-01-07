@@ -5,10 +5,11 @@ can be used to evaluate the performance and robustness of GP systems in logic sy
 
 ## Reference
 
-> Kalkreuth et al.: General Boolean Function Benchmark Suite
-> FOGA'23: Proceedings of the 17th ACM/SIGEVO Conference on Foundations of Genetic Algorithms
+> Kalkreuth et al.: General Boolean Function Benchmark Suite,
+> FOGA'23: Proceedings of the 17th ACM/SIGEVO Conference on Foundations of Genetic Algorithms,
 > DOI: 10.1145/3594805.3607131.
-> URL: https://doi.org/10.1145/3594805.3607131
+> URL: https://doi.org/10.1145/3594805.3607131,
+
 
 
 BibTex:

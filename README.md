@@ -1,6 +1,6 @@
 ## General Boolean Function Benchmark Suite 
 
-This repository contains the slides that present our recently published General Boolean Function Benchmark Suite (GBFS) for Genetic Programming (GP). GGBFS can be used to evaluate the search performance and robustness of heuristic methods in logic synthesis. 
+This repository contains the presentation material of our recently published General Boolean Function Benchmark Suite (GBFS). GBFS provides a benchmark that can be used to evaluate the search performance and robustness of heuristic methods in logic synthesis. The corresponding paper has been presented at the 17th ACM/SIGEVO Conference on Foundations of Genetic Algorithms (FOGA'23) last year.
 
 The paper has been presented as a poster at the 17th ACM/SIGEVO Conference on Foundations of Genetic Algorithms (FOGA'23). 
 The slides have been used for a talk given at the Chair of Artificial Intelligence Methodology of the RWTH Aachen University in Germany.

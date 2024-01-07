@@ -1,11 +1,12 @@
 This repository contains the slides of the recent published 
 
-> Kalkreuth et al.: General Boolean Function Benchmark Suite FOGA'23: Proceedings of the 17th ACM/SIGEVO Conference on Foundations of Genetic Algorithms Potsdam (Germany), 2023
+> Kalkreuth et al.: General Boolean Function Benchmark Suite
 > FOGA'23: Proceedings of the 17th ACM/SIGEVO Conference on Foundations of Genetic Algorithms
 > DOI: 10.1145/3594805.3607131.
 > URL: https://doi.org/10.1145/3594805.3607131
 
-or in BibTex:
+
+BibTex:
 
 ```
 
